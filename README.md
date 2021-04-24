@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/https://br.linkedin.com/in/jonathas-jesus-b20517137" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="https://br.linkedin.com/in/jonathas-jesus-b20517137" alt=linkedin style="margin-bottom: 5px;" /></a>
   
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxherfaajlr_q62pdh307hq" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/views/UCXHerfaAjlR_Q62pdH307hQ?style=social" alt="https://www.youtube.com/channel/ucxherfaajlr_q62pdh307hq" alt=Youtube style="margin-bottom: 5px;" /></a>
+<a href="https://www.youtube.com/channel/UCXHerfaAjlR_Q62pdH307hQ" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/views/UCXHerfaAjlR_Q62pdH307hQ?style=social" alt="https://www.youtube.com/channel/UCXHerfaAjlR_Q62pdH307hQ" alt=Youtube style="margin-bottom: 5px;" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
