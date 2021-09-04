@@ -18,13 +18,15 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasgit&layout=compact&theme=midnight-purple)](https://github.com/jonathasgit/github-readme-stats)
+![Jonathas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathasgit&show_icons=true&theme=midnight-purple) <!-- Novo -->
+
+
+
+
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathasgit&show_icons=true&locale=en&layout=compact" alt="jonathasgit" />
 </p> Anterior - 
 -->
-
-![Jonathas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathasgit&show_icons=true&theme=midnight-purple) <!-- Novo -->
-
 
 <!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathasgit&show_icons=true&locale=en" alt="jonathasgit" /></p> Anterior-->
