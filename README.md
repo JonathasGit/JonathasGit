@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jonathas de Jesus</h1>
-<h3 align="center">Apaixonado por aprender tecnologias, estudando ADS e formado em técnico em Informática para Internet.</h3>
+<h3 align="center">Apaixonado por aprender tecnologias; </h3> <br>
+  Formado em técnico em Informática para Internet. <br>
+  Formado em Analise e Desenvolvimento de Sistemas; <br>
+  Pós graduado em Engenharia de Software;<br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathasgit&label=Profile%20views&color=0e75b6&style=flat" alt="jonathasgit" /> </p>
 
