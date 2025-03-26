@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular, Node.js, React.js, JavaScript, HTML e CSS**
 
-- 📝 I regularly write articles on [https://jothurinformatica.blogspot.com/](https://jothurinformatica.blogspot.com/)
+ <!-- - 📝 I regularly write articles on [https://jothurinformatica.blogspot.com/](https://jothurinformatica.blogspot.com/) -->
 
 <h3 align="left">Connect with me:</h3>
 
