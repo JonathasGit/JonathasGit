@@ -19,7 +19,9 @@
    <!--<a href="https://jothurinformatica.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
    <a href="https://www.youtube.com/channel/UCXHerfaAjlR_Q62pdH307hQ/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> --> 
    <a href="https://www.linkedin.com/in/jonathas-jesus-b20517137" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.youtube.com/channel/UCXHerfaAjlR_Q62pdH307hQ" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/views/UCXHerfaAjlR_Q62pdH307hQ?style=social" alt="https://www.youtube.com/channel/UCXHerfaAjlR_Q62pdH307hQ" alt=Youtube style="margin-bottom: 5px;" /></a>
+
+   
+  <!--<a href="https://www.youtube.com/channel/UCXHerfaAjlR_Q62pdH307hQ" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/views/UCXHerfaAjlR_Q62pdH307hQ?style=social" alt="https://www.youtube.com/channel/UCXHerfaAjlR_Q62pdH307hQ" alt=Youtube style="margin-bottom: 5px;" /></a> --> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
