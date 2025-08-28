@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jonathas de Jesus</h1>
-<h3 align="center">Apaixonado por aprender tecnologias; </h3> <br>
+<h1 align="center">Olá 👋, sou o Jonathas de Jesus</h1>
+<h3 align="center">Gosto de aprender tecnologias; </h3> <br>
   Formado em técnico em Informática para Internet. <br>
   Formado em Analise e Desenvolvimento de Sistemas; <br>
   Pós graduado em Engenharia de Software;<br>
